@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.container p {
+    background-color: palevioletred;
+    color: teal;
+    font-size: 20px;
+}
